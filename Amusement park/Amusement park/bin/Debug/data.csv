@@ -1,0 +1,12 @@
+[Zones];;;;;
+id;Name;Area;;;
+1;Семейная;500;;;
+2;Экстрим;300;;;
+[Operators];;;;;
+Id;FullName;Shift;Experience;;
+1;Сидоров С.С.;Дневная;5;;
+2;Петров П.П.;Ночная;2;;
+[Attractions];;;;;
+Id;Name;ZoneId;OperatorId;Price;Capacity
+1;Колесо ообозрения;1;1;300;50
+2;Американские горки;2;2;500;30

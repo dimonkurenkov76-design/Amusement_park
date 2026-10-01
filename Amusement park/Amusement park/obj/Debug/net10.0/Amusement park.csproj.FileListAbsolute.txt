@@ -1,0 +1,19 @@
+D:\Prog_work\C#\Amusement park\Amusement park\bin\Debug\net10.0\Amusement park.exe
+D:\Prog_work\C#\Amusement park\Amusement park\bin\Debug\net10.0\Amusement park.deps.json
+D:\Prog_work\C#\Amusement park\Amusement park\bin\Debug\net10.0\Amusement park.runtimeconfig.json
+D:\Prog_work\C#\Amusement park\Amusement park\bin\Debug\net10.0\Amusement park.dll
+D:\Prog_work\C#\Amusement park\Amusement park\bin\Debug\net10.0\Amusement park.pdb
+D:\Prog_work\C#\Amusement park\Amusement park\obj\Debug\net10.0\Amusement park.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog_work\C#\Amusement park\Amusement park\obj\Debug\net10.0\Amusement park.AssemblyInfoInputs.cache
+D:\Prog_work\C#\Amusement park\Amusement park\obj\Debug\net10.0\Amusement park.AssemblyInfo.cs
+D:\Prog_work\C#\Amusement park\Amusement park\obj\Debug\net10.0\Amusement park.csproj.CoreCompileInputs.cache
+D:\Prog_work\C#\Amusement park\Amusement park\obj\Debug\net10.0\Amusement park.dll
+D:\Prog_work\C#\Amusement park\Amusement park\obj\Debug\net10.0\refint\Amusement park.dll
+D:\Prog_work\C#\Amusement park\Amusement park\obj\Debug\net10.0\Amusement park.pdb
+D:\Prog_work\C#\Amusement park\Amusement park\obj\Debug\net10.0\Amusement park.genruntimeconfig.cache
+D:\Prog_work\C#\Amusement park\Amusement park\obj\Debug\net10.0\ref\Amusement park.dll
+D:\Prog_work\C#\Amusement park\Amusement park\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\Prog_work\C#\Amusement park\Amusement park\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\Prog_work\C#\Amusement park\Amusement park\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+D:\Prog_work\C#\Amusement park\Amusement park\obj\Debug\net10.0\Amusement park.csproj.AssemblyReference.cache
+D:\Prog_work\C#\Amusement park\Amusement park\obj\Debug\net10.0\Amusemen.D6F509B9.Up2Date

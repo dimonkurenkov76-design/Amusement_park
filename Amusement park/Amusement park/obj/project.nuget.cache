@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eC9eBYfoA8A=",
+  "success": true,
+  "projectFilePath": "D:\\Prog_work\\C#\\Amusement park\\Amusement park\\Amusement park.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimon\\.nuget\\packages\\system.security.permissions\\10.0.12\\system.security.permissions.10.0.12.nupkg.sha512",
+    "C:\\Users\\dimon\\.nuget\\packages\\system.windows.extensions\\10.0.12\\system.windows.extensions.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

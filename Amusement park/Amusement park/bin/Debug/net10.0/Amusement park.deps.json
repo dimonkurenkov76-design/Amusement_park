@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Amusement park/1.0.0": {
+        "dependencies": {
+          "System.Security.Permissions": "10.0.12"
+        },
+        "runtime": {
+          "Amusement park.dll": {}
+        }
+      },
+      "System.Security.Permissions/10.0.12": {
+        "dependencies": {
+          "System.Windows.Extensions": "10.0.12"
+        },
+        "runtime": {
+          "lib/net10.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          }
+        }
+      },
+      "System.Windows.Extensions/10.0.12": {
+        "runtime": {
+          "lib/net10.0/System.Windows.Extensions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net10.0/System.Windows.Extensions.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amusement park/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Security.Permissions/10.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WkhmKe2rEGkqOYOFR1WNM7PGQ6Z/tArb8PMcVi0943KZtQC7IJUkLAQ3Cnx6XPeRb3DUkTDfeZmz+TiJ1R5YPQ==",
+      "path": "system.security.permissions/10.0.12",
+      "hashPath": "system.security.permissions.10.0.12.nupkg.sha512"
+    },
+    "System.Windows.Extensions/10.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J+FZruVjELSk2NMe3MQNyCXszIlx1b7qOjUBCSbhabomYIVWpFS5QCnPdxE8K6SVt7Gja7ohpXX1oLLXRAIuzw==",
+      "path": "system.windows.extensions/10.0.12",
+      "hashPath": "system.windows.extensions.10.0.12.nupkg.sha512"
+    }
+  }
+}
